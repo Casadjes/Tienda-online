@@ -1,0 +1,12 @@
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/bin/Debug/net6.0/OpenStore.Domain.deps.json
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/bin/Debug/net6.0/OpenStore.Domain.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/bin/Debug/net6.0/ref/OpenStore.Domain.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/bin/Debug/net6.0/OpenStore.Domain.pdb
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/OpenStore.Domain.csproj.AssemblyReference.cache
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/OpenStore.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/OpenStore.Domain.AssemblyInfoInputs.cache
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/OpenStore.Domain.AssemblyInfo.cs
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/OpenStore.Domain.csproj.CoreCompileInputs.cache
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/OpenStore.Domain.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/ref/OpenStore.Domain.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Domain/obj/Debug/net6.0/OpenStore.Domain.pdb

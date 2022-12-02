@@ -1,0 +1,12 @@
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/bin/Debug/net6.0/OpenStore.Contracts.deps.json
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/bin/Debug/net6.0/OpenStore.Contracts.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/bin/Debug/net6.0/ref/OpenStore.Contracts.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/bin/Debug/net6.0/OpenStore.Contracts.pdb
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/OpenStore.Contracts.csproj.AssemblyReference.cache
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/OpenStore.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/OpenStore.Contracts.AssemblyInfoInputs.cache
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/OpenStore.Contracts.AssemblyInfo.cs
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/OpenStore.Contracts.csproj.CoreCompileInputs.cache
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/OpenStore.Contracts.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/ref/OpenStore.Contracts.dll
+/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Contracts/obj/Debug/net6.0/OpenStore.Contracts.pdb

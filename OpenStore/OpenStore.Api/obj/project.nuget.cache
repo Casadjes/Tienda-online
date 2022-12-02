@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "YbGwHXdlI578LEJk1Ws0VkMHD2Si6r2Zz7OOmIR/X1KC1aM1HKMK76STd49yrM7Wx2JGO0FzQVX4nqonlsqIGA==",
+  "success": true,
+  "projectFilePath": "/home/symmetry/git/Tienda-online/OpenStore/OpenStore.Api/OpenStore.Api.csproj",
+  "expectedPackageFiles": [
+    "/home/symmetry/.nuget/packages/microsoft.extensions.apidescription.server/3.0.0/microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "/home/symmetry/.nuget/packages/microsoft.openapi/1.2.3/microsoft.openapi.1.2.3.nupkg.sha512",
+    "/home/symmetry/.nuget/packages/swashbuckle.aspnetcore/6.2.3/swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "/home/symmetry/.nuget/packages/swashbuckle.aspnetcore.swagger/6.2.3/swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "/home/symmetry/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.2.3/swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "/home/symmetry/.nuget/packages/swashbuckle.aspnetcore.swaggerui/6.2.3/swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
