@@ -2,6 +2,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\OpenStore.Application\OpenStore.Application.csproj" />
+    <ProjectReference Include="..\OpenStore.Domain\OpenStore.Domain.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
